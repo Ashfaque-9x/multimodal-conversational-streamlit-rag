@@ -38,7 +38,7 @@ A persistent, multi-modal Retrieval-Augmented Generation (RAG) system that allow
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd RAG-Project-5
+   cd multimodal-conversational-streamlit-rag
    ```
 
 2. **Create a virtual environment**:
