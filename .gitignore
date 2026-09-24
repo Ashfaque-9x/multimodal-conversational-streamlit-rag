@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Environment
+.env
+
+# FAISS
+faiss_index/
+
+# RAG persistent data
+rag_storage/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# My Directories and Files
+code_backup/
+Multimodel-RAG-Project-5.txt
+
+# IDE Settings
+.vscode/
+.idea/
+
+#Log Files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
